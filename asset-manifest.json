@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/mc-combat-simulator/static/css/main.e4338d91.chunk.css",
-    "main.js": "/mc-combat-simulator/static/js/main.8d76aa27.chunk.js",
-    "main.js.map": "/mc-combat-simulator/static/js/main.8d76aa27.chunk.js.map",
-    "runtime-main.js": "/mc-combat-simulator/static/js/runtime-main.208312e2.js",
-    "runtime-main.js.map": "/mc-combat-simulator/static/js/runtime-main.208312e2.js.map",
-    "static/css/2.7ceb9721.chunk.css": "/mc-combat-simulator/static/css/2.7ceb9721.chunk.css",
-    "static/js/2.24d80d93.chunk.js": "/mc-combat-simulator/static/js/2.24d80d93.chunk.js",
-    "static/js/2.24d80d93.chunk.js.map": "/mc-combat-simulator/static/js/2.24d80d93.chunk.js.map",
-    "index.html": "/mc-combat-simulator/index.html",
-    "static/css/2.7ceb9721.chunk.css.map": "/mc-combat-simulator/static/css/2.7ceb9721.chunk.css.map",
-    "static/css/main.e4338d91.chunk.css.map": "/mc-combat-simulator/static/css/main.e4338d91.chunk.css.map",
-    "static/js/2.24d80d93.chunk.js.LICENSE.txt": "/mc-combat-simulator/static/js/2.24d80d93.chunk.js.LICENSE.txt",
-    "static/media/cc.scss": "/mc-combat-simulator/static/media/upheavtt.e3d365ba.ttf"
+    "main.css": "/mc-pvp-simulator/static/css/main.f9ee08b8.chunk.css",
+    "main.js": "/mc-pvp-simulator/static/js/main.f8ca4001.chunk.js",
+    "main.js.map": "/mc-pvp-simulator/static/js/main.f8ca4001.chunk.js.map",
+    "runtime-main.js": "/mc-pvp-simulator/static/js/runtime-main.fd9407f2.js",
+    "runtime-main.js.map": "/mc-pvp-simulator/static/js/runtime-main.fd9407f2.js.map",
+    "static/css/2.7ceb9721.chunk.css": "/mc-pvp-simulator/static/css/2.7ceb9721.chunk.css",
+    "static/js/2.24d80d93.chunk.js": "/mc-pvp-simulator/static/js/2.24d80d93.chunk.js",
+    "static/js/2.24d80d93.chunk.js.map": "/mc-pvp-simulator/static/js/2.24d80d93.chunk.js.map",
+    "index.html": "/mc-pvp-simulator/index.html",
+    "static/css/2.7ceb9721.chunk.css.map": "/mc-pvp-simulator/static/css/2.7ceb9721.chunk.css.map",
+    "static/css/main.f9ee08b8.chunk.css.map": "/mc-pvp-simulator/static/css/main.f9ee08b8.chunk.css.map",
+    "static/js/2.24d80d93.chunk.js.LICENSE.txt": "/mc-pvp-simulator/static/js/2.24d80d93.chunk.js.LICENSE.txt",
+    "static/media/cc.scss": "/mc-pvp-simulator/static/media/upheavtt.e3d365ba.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.208312e2.js",
+    "static/js/runtime-main.fd9407f2.js",
     "static/css/2.7ceb9721.chunk.css",
     "static/js/2.24d80d93.chunk.js",
-    "static/css/main.e4338d91.chunk.css",
-    "static/js/main.8d76aa27.chunk.js"
+    "static/css/main.f9ee08b8.chunk.css",
+    "static/js/main.f8ca4001.chunk.js"
   ]
 }
